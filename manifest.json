@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "test",
+    "description": "testdesc",
+    "uuid": "f3e14cb9-aea6-58a4-bd52-1bc3c9b9084a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4e7ea159-dd8b-0105-2b66-0f0b8b15272e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
