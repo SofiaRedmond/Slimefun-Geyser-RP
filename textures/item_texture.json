@@ -1604,7 +1604,7 @@
 		},
 		"bacon_wrapped_cheese_filled_hot_dog": {
 			"textures": [
-				"textures/items/jardin_exotico/comida/bacon_wrapped_cheese_filled_hot_dog"
+				"textures/items/jardin_exotico/comida/bacon_cheese_hot_dog.png"
 			]
 		},
 		"bbq_bacon_wrapped_hot_dog": {
@@ -1614,7 +1614,7 @@
 		},
 		"bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese": {
 			"textures": [
-				"textures/items/jardin_exotico/comida/bbq_double_bacon_wrapped_hot_dog_in_a_tortilla_with_cheese"
+				"textures/items/jardin_exotico/comida/bbq_hot_dog_tortilla_cheese.png"
 			]
 		},
 		"chocolate_strawberry": {
@@ -2234,7 +2234,7 @@
 		},
 		"scroll_of_dimensional_teleposition": {
 			"textures": [
-				"textures/items/dispositivos_magicos/scroll_of_dimensional_teleposition"
+				"textures/items/dispositivos_magicos/scroll_dimensional_teleposition"
 			]
 		},
 		"magical_zombie_pills": {
